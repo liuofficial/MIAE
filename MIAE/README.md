@@ -1,7 +1,7 @@
 # Model Inspired Autoencoder for Unsupervised Hyperspectral Image Superresolution (MIAE), IEEE TGRS
 
-![flowchart](MIAE/figures/fig_flowchart.png)
-![srf and psf](MIAE/figures/fig_BR.png)
+![flowchart](figures/fig_flowchart.png)
+![srf and psf](figures/fig_BR.png)
 
 ## files
 ### `utiles.py`, `blind.py`, `miae.py`

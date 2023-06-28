@@ -20,21 +20,14 @@
 
 ## Bibtex
 ```
-@article{Liu2021ModelIA,
-  title={Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution},
-  author={Jianjun Liu and Zebin Wu and Liang Xiao and Xiao-Jun Wu},
-  journal={ArXiv},
-  year={2021},
-  volume={abs/2110.11591}
-}
 @ARTICLE{9681709,
   author={Liu, Jianjun and Wu, Zebin and Xiao, Liang and Wu, Xiao-Jun},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution}, 
   year={2022},
-  volume={},
+  volume={60},
   number={},
-  pages={1-1},
+  pages={5522412},
   doi={10.1109/TGRS.2022.3143156}
 }
 ```
